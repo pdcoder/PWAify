@@ -1,0 +1,16 @@
+{
+    "name": "PWAify a Progressive App",
+    "short_name": "PWAify",
+    "icons":[
+        "src": "/src/images/icons",
+        "type": "image/png",
+        "sizes": "48x48"
+    ],
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "potrait-primary",
+    "background_color": "#fffff",
+    "theme_color": "#3f51b5"
+
+}
